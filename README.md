@@ -1,4 +1,4 @@
-#Map Design and Tile Generation
+# Map Design and Tile Generation
 ## Tile 1: Basemap
 ![Tile 1](/assets/img/tile1.png)
 * Description of Tile: Modified basemap highlighting streets and water around the Seattle area.
